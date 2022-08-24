@@ -1,0 +1,23 @@
+http transferring http://www.nxp.com/documents/spice_model/BUK9637-100E.lib to D:\Dans Design\Dans Xylophone Robot\Dans_Project_Sim\BUK9637-100E.lib
+Circuit: * D:\Dans Design\Dans Xylophone Robot\Dans_Project_Sim\Solenoid 2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun May 08 10:51:12 2016
+Total elapsed time: 2.882 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 424085
+traniter = 424063
+tranpoints = 178303
+accept = 164945
+rejected = 13358
+matrix size = 14
+fillins = 14
+solver = Normal
+Matrix Compiler1: 1.77 KB object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.41 KB object code size  0.2/0.2/[0.1]
+
+

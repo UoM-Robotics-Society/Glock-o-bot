@@ -1,0 +1,18 @@
+Line No.,Order Code,RoHS Compliant?,Notes,Qty,Manufacturer Part Number,Manufacturer / Description,Availability,Unit Price,Line Price,Discount Price
+1,1201269,YES,,26.0,"74HC595D","Shift Register Function:Serial to Parallel, Serial to Serial; Logic Type:Shift Register; No. of Elements:1; IC Output Type:Tri State; No. of Pins:16; Logic Case Style:SOIC; Supply Vol",44591,0.2090,5.43,,
+2,8767165,YES,,30.0,"ECA1CAM102X","Product Range:AM Series; Capacitance:1000µF; Capacitance Tolerance:± 20%; Voltage Rating:16V; Diameter:10mm; Capacitor Terminals:Radial Leaded; Packaging:Each; ESR:-; Height:16mm; Lead Sp",181,0.3080,9.24,,
+3,2317417,YES,,30.0,"1N4007RLG","Diode Configuration:Single; Repetitive Reverse Voltage Vrrm Max:1kV; Forward Current If(AV):1A; Forward Voltage VF Max:450mV; Forward Surge Current Ifsm Max:30A; Operating Temperature Max",20628,0.0869,2.61,,
+4,9491856,YES,,30.0,"B2B-PH-K-S(LF)(SN)","Product Range:PH Series; Contact Termination Type:Through Hole; Gender:Header; No. of Contacts:2; Pitch Spacing:2mm; Contact Plating:Tin Plated Contacts; Contact Material:Brass; No. of Rows:1",304361,0.0890,2.67,,
+5,1650888,YES,,30.0,"C1206C105K4RACTU","Product Range:C Series; Capacitance:1µF; Capacitance Tolerance:± 10%; Dielectric Characteristic:X7R; Voltage Rating:16V; Ceramic Capacitor Case:1206 [3216 Metric]; Operating Temperature Mi",21539,0.0604,1.81,,
+6,2112108,YES,,26.0,"703-0097","LED Colour:Green; Bulb Size:5mm; Wavelength Typ:572nm; Forward Voltage:2.1V; Forward Current If:20mA; Luminous Intensity:150mcd; LED Mounting:Through Hole; Lens Shape:Round; Viewing Angle:",12165,0.1480,3.85,,
+7,9335757,Y-EX,,100.0,"MC0125W120611K","Product Range:MC Series; Resistance:1kohm; Power Rating:125mW; Resistance Tolerance:± 1%; Voltage Rating:200V; Resistor Case Style:1206 [3216 Metric]; Packaging:Cut Tape; Resistor E",15049,0.0027,0.27,,
+8,2254193,Y-EX,,26.0,"BUK9637-100E","Transistor Polarity:N Channel; Continuous Drain Current Id:31A; Drain Source Voltage Vds:100V; On Resistance Rds(on):0.031ohm; Rds(on) Test Voltage Vgs:5V; Threshold Voltage Vgs:1.7V; Powe",3492,0.5290,13.75,,
+9,2308807,YES,,26.0,"1-338068-4","Product Range:Micro-MaTch Series; Contact Termination Type:Through Hole; Gender:Receptacle; No. of Contacts:14; Pitch Spacing:1.27mm; Contact Plating:Tin Plated Contacts; Contact",1498,0.4770,12.40,,
+10,2517979,YES,,24.0,"2205073-1","Connector Type A:Micro-Match 14 Position Plug; Connector Type B:Micro-Match 14 Position Board Connector; Cable Length - Imperial:2.76"; Cable Length - Metric:70mm; Product Range:-",99,1.6800,40.32,,
+11,2517981,YES,,2.0,"2205073-3","Connector Type A:Micro-Match 14 Position Plug; Connector Type B:Micro-Match 14 Position Board Connector; Cable Length - Imperial:7.87"; Cable Length - Metric:200mm; Product Range:",250,2.8300,5.66,,
+
+,,,,,,,Sub Total,98.02
+,,,,,,,Goods Total,98.02
+,,,,,,,Basic Delivery,0.00
+,,,,,,,VAT,Unknown
+,,,,,,,Total,98.02

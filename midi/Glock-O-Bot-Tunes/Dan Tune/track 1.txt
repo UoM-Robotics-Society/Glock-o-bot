@@ -1,0 +1,141 @@
+
+8:Bars:Beats:Ticks:01:01:000:(0):Note:On :chan: 1 note: 89 :vol: 61 dur: 528
+9:Bars:Beats:Ticks:01:01:528:(528):Note:Off :chan: 1 note: 89
+10:Bars:Beats:Ticks:01:02:000:(1024):Note:On :chan: 1 note: 89 :vol: 56 dur: 507
+11:Bars:Beats:Ticks:01:02:507:(1531):Note:Off :chan: 1 note: 89
+12:Bars:Beats:Ticks:01:03:000:(2048):Note:On :chan: 1 note: 89 :vol: 56 dur: 499
+13:Bars:Beats:Ticks:01:03:499:(2547):Note:Off :chan: 1 note: 89
+14:Bars:Beats:Ticks:01:04:000:(3072):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+15:Bars:Beats:Ticks:01:04:468:(3540):Note:Off :chan: 1 note: 86
+16:Bars:Beats:Ticks:01:04:512:(3584):Note:On :chan: 1 note: 89 :vol: 56 dur: 483
+17:Bars:Beats:Ticks:01:04:995:(4067):Note:Off :chan: 1 note: 89
+18:Bars:Beats:Ticks:02:01:512:(4608):Note:On :chan: 1 note: 89 :vol: 59 dur: 498
+19:Bars:Beats:Ticks:02:01:1010:(5106):Note:Off :chan: 1 note: 89
+20:Bars:Beats:Ticks:02:02:512:(5632):Note:On :chan: 1 note: 86 :vol: 64 dur: 484
+21:Bars:Beats:Ticks:02:02:996:(6116):Note:Off :chan: 1 note: 86
+22:Bars:Beats:Ticks:02:03:000:(6144):Note:On :chan: 1 note: 89 :vol: 56 dur: 482
+23:Bars:Beats:Ticks:02:03:482:(6626):Note:Off :chan: 1 note: 89
+24:Bars:Beats:Ticks:02:03:512:(6656):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+25:Bars:Beats:Ticks:02:03:980:(7124):Note:Off :chan: 1 note: 86
+26:Bars:Beats:Ticks:02:04:000:(7168):Note:On :chan: 1 note: 89 :vol: 56 dur: 500
+27:Bars:Beats:Ticks:02:04:500:(7668):Note:Off :chan: 1 note: 89
+28:Bars:Beats:Ticks:03:01:000:(8192):Note:On :chan: 1 note: 88 :vol: 61 dur: 538
+29:Bars:Beats:Ticks:03:01:538:(8730):Note:Off :chan: 1 note: 88
+30:Bars:Beats:Ticks:03:02:000:(9216):Note:On :chan: 1 note: 88 :vol: 56 dur: 507
+31:Bars:Beats:Ticks:03:02:507:(9723):Note:Off :chan: 1 note: 88
+32:Bars:Beats:Ticks:03:03:000:(10240):Note:On :chan: 1 note: 88 :vol: 56 dur: 499
+33:Bars:Beats:Ticks:03:03:499:(10739):Note:Off :chan: 1 note: 88
+34:Bars:Beats:Ticks:03:04:000:(11264):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+35:Bars:Beats:Ticks:03:04:468:(11732):Note:Off :chan: 1 note: 84
+36:Bars:Beats:Ticks:03:04:512:(11776):Note:On :chan: 1 note: 88 :vol: 56 dur: 483
+37:Bars:Beats:Ticks:03:04:995:(12259):Note:Off :chan: 1 note: 88
+38:Bars:Beats:Ticks:04:01:512:(12800):Note:On :chan: 1 note: 88 :vol: 59 dur: 498
+39:Bars:Beats:Ticks:04:01:1010:(13298):Note:Off :chan: 1 note: 88
+40:Bars:Beats:Ticks:04:02:512:(13824):Note:On :chan: 1 note: 84 :vol: 64 dur: 484
+41:Bars:Beats:Ticks:04:02:996:(14308):Note:Off :chan: 1 note: 84
+42:Bars:Beats:Ticks:04:03:000:(14336):Note:On :chan: 1 note: 88 :vol: 56 dur: 482
+43:Bars:Beats:Ticks:04:03:482:(14818):Note:Off :chan: 1 note: 88
+44:Bars:Beats:Ticks:04:03:512:(14848):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+45:Bars:Beats:Ticks:04:03:980:(15316):Note:Off :chan: 1 note: 84
+46:Bars:Beats:Ticks:04:04:000:(15360):Note:On :chan: 1 note: 88 :vol: 56 dur: 500
+47:Bars:Beats:Ticks:04:04:500:(15860):Note:Off :chan: 1 note: 88
+48:Bars:Beats:Ticks:05:01:000:(16384):Note:On :chan: 1 note: 89 :vol: 61 dur: 538
+49:Bars:Beats:Ticks:05:01:538:(16922):Note:Off :chan: 1 note: 89
+50:Bars:Beats:Ticks:05:02:000:(17408):Note:On :chan: 1 note: 89 :vol: 56 dur: 507
+51:Bars:Beats:Ticks:05:02:507:(17915):Note:Off :chan: 1 note: 89
+52:Bars:Beats:Ticks:05:03:000:(18432):Note:On :chan: 1 note: 89 :vol: 56 dur: 499
+53:Bars:Beats:Ticks:05:03:499:(18931):Note:Off :chan: 1 note: 89
+54:Bars:Beats:Ticks:05:04:000:(19456):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+55:Bars:Beats:Ticks:05:04:468:(19924):Note:Off :chan: 1 note: 86
+56:Bars:Beats:Ticks:05:04:512:(19968):Note:On :chan: 1 note: 89 :vol: 56 dur: 483
+57:Bars:Beats:Ticks:05:04:995:(20451):Note:Off :chan: 1 note: 89
+58:Bars:Beats:Ticks:06:01:512:(20992):Note:On :chan: 1 note: 89 :vol: 59 dur: 498
+59:Bars:Beats:Ticks:06:01:1010:(21490):Note:Off :chan: 1 note: 89
+60:Bars:Beats:Ticks:06:02:512:(22016):Note:On :chan: 1 note: 86 :vol: 64 dur: 484
+61:Bars:Beats:Ticks:06:02:996:(22500):Note:Off :chan: 1 note: 86
+62:Bars:Beats:Ticks:06:03:000:(22528):Note:On :chan: 1 note: 89 :vol: 56 dur: 482
+63:Bars:Beats:Ticks:06:03:482:(23010):Note:Off :chan: 1 note: 89
+64:Bars:Beats:Ticks:06:03:512:(23040):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+65:Bars:Beats:Ticks:06:03:980:(23508):Note:Off :chan: 1 note: 86
+66:Bars:Beats:Ticks:06:04:000:(23552):Note:On :chan: 1 note: 89 :vol: 56 dur: 500
+67:Bars:Beats:Ticks:06:04:500:(24052):Note:Off :chan: 1 note: 89
+68:Bars:Beats:Ticks:07:01:000:(24576):Note:On :chan: 1 note: 88 :vol: 61 dur: 538
+69:Bars:Beats:Ticks:07:01:538:(25114):Note:Off :chan: 1 note: 88
+70:Bars:Beats:Ticks:07:02:000:(25600):Note:On :chan: 1 note: 88 :vol: 56 dur: 507
+71:Bars:Beats:Ticks:07:02:507:(26107):Note:Off :chan: 1 note: 88
+72:Bars:Beats:Ticks:07:03:000:(26624):Note:On :chan: 1 note: 88 :vol: 56 dur: 499
+73:Bars:Beats:Ticks:07:03:499:(27123):Note:Off :chan: 1 note: 88
+74:Bars:Beats:Ticks:07:04:000:(27648):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+75:Bars:Beats:Ticks:07:04:468:(28116):Note:Off :chan: 1 note: 84
+76:Bars:Beats:Ticks:07:04:512:(28160):Note:On :chan: 1 note: 88 :vol: 56 dur: 483
+77:Bars:Beats:Ticks:07:04:995:(28643):Note:Off :chan: 1 note: 88
+78:Bars:Beats:Ticks:08:01:512:(29184):Note:On :chan: 1 note: 88 :vol: 59 dur: 498
+79:Bars:Beats:Ticks:08:01:1010:(29682):Note:Off :chan: 1 note: 88
+80:Bars:Beats:Ticks:08:02:512:(30208):Note:On :chan: 1 note: 84 :vol: 64 dur: 484
+81:Bars:Beats:Ticks:08:02:996:(30692):Note:Off :chan: 1 note: 84
+82:Bars:Beats:Ticks:08:03:000:(30720):Note:On :chan: 1 note: 88 :vol: 56 dur: 482
+83:Bars:Beats:Ticks:08:03:482:(31202):Note:Off :chan: 1 note: 88
+84:Bars:Beats:Ticks:08:03:512:(31232):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+85:Bars:Beats:Ticks:08:03:980:(31700):Note:Off :chan: 1 note: 84
+86:Bars:Beats:Ticks:08:04:000:(31744):Note:On :chan: 1 note: 88 :vol: 56 dur: 500
+87:Bars:Beats:Ticks:08:04:500:(32244):Note:Off :chan: 1 note: 88
+88:Bars:Beats:Ticks:09:01:000:(32768):Note:On :chan: 1 note: 89 :vol: 61 dur: 538
+89:Bars:Beats:Ticks:09:01:538:(33306):Note:Off :chan: 1 note: 89
+90:Bars:Beats:Ticks:09:02:000:(33792):Note:On :chan: 1 note: 89 :vol: 56 dur: 507
+91:Bars:Beats:Ticks:09:02:507:(34299):Note:Off :chan: 1 note: 89
+92:Bars:Beats:Ticks:09:03:000:(34816):Note:On :chan: 1 note: 89 :vol: 56 dur: 499
+93:Bars:Beats:Ticks:09:03:499:(35315):Note:Off :chan: 1 note: 89
+94:Bars:Beats:Ticks:09:04:000:(35840):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+95:Bars:Beats:Ticks:09:04:468:(36308):Note:Off :chan: 1 note: 86
+96:Bars:Beats:Ticks:09:04:512:(36352):Note:On :chan: 1 note: 89 :vol: 56 dur: 483
+97:Bars:Beats:Ticks:09:04:995:(36835):Note:Off :chan: 1 note: 89
+98:Bars:Beats:Ticks:10:01:512:(37376):Note:On :chan: 1 note: 89 :vol: 59 dur: 498
+99:Bars:Beats:Ticks:10:01:1010:(37874):Note:Off :chan: 1 note: 89
+100:Bars:Beats:Ticks:10:02:512:(38400):Note:On :chan: 1 note: 86 :vol: 64 dur: 484
+101:Bars:Beats:Ticks:10:02:996:(38884):Note:Off :chan: 1 note: 86
+102:Bars:Beats:Ticks:10:03:000:(38912):Note:On :chan: 1 note: 89 :vol: 56 dur: 482
+103:Bars:Beats:Ticks:10:03:482:(39394):Note:Off :chan: 1 note: 89
+104:Bars:Beats:Ticks:10:03:512:(39424):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+105:Bars:Beats:Ticks:10:03:980:(39892):Note:Off :chan: 1 note: 86
+106:Bars:Beats:Ticks:10:04:000:(39936):Note:On :chan: 1 note: 89 :vol: 56 dur: 500
+107:Bars:Beats:Ticks:10:04:500:(40436):Note:Off :chan: 1 note: 89
+108:Bars:Beats:Ticks:11:01:000:(40960):Note:On :chan: 1 note: 88 :vol: 61 dur: 538
+109:Bars:Beats:Ticks:11:01:538:(41498):Note:Off :chan: 1 note: 88
+110:Bars:Beats:Ticks:11:02:000:(41984):Note:On :chan: 1 note: 88 :vol: 56 dur: 507
+111:Bars:Beats:Ticks:11:02:507:(42491):Note:Off :chan: 1 note: 88
+112:Bars:Beats:Ticks:11:03:000:(43008):Note:On :chan: 1 note: 88 :vol: 56 dur: 499
+113:Bars:Beats:Ticks:11:03:499:(43507):Note:Off :chan: 1 note: 88
+114:Bars:Beats:Ticks:11:04:000:(44032):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+115:Bars:Beats:Ticks:11:04:468:(44500):Note:Off :chan: 1 note: 84
+116:Bars:Beats:Ticks:11:04:512:(44544):Note:On :chan: 1 note: 88 :vol: 56 dur: 483
+117:Bars:Beats:Ticks:11:04:995:(45027):Note:Off :chan: 1 note: 88
+118:Bars:Beats:Ticks:12:01:512:(45568):Note:On :chan: 1 note: 88 :vol: 59 dur: 498
+119:Bars:Beats:Ticks:12:01:1010:(46066):Note:Off :chan: 1 note: 88
+120:Bars:Beats:Ticks:12:02:512:(46592):Note:On :chan: 1 note: 84 :vol: 64 dur: 484
+121:Bars:Beats:Ticks:12:02:996:(47076):Note:Off :chan: 1 note: 84
+122:Bars:Beats:Ticks:12:03:000:(47104):Note:On :chan: 1 note: 88 :vol: 56 dur: 482
+123:Bars:Beats:Ticks:12:03:482:(47586):Note:Off :chan: 1 note: 88
+124:Bars:Beats:Ticks:12:03:512:(47616):Note:On :chan: 1 note: 84 :vol: 64 dur: 468
+125:Bars:Beats:Ticks:12:03:980:(48084):Note:Off :chan: 1 note: 84
+126:Bars:Beats:Ticks:12:04:000:(48128):Note:On :chan: 1 note: 88 :vol: 56 dur: 500
+127:Bars:Beats:Ticks:12:04:500:(48628):Note:Off :chan: 1 note: 88
+128:Bars:Beats:Ticks:13:01:000:(49152):Note:On :chan: 1 note: 89 :vol: 61 dur: 538
+129:Bars:Beats:Ticks:13:01:538:(49690):Note:Off :chan: 1 note: 89
+130:Bars:Beats:Ticks:13:02:000:(50176):Note:On :chan: 1 note: 89 :vol: 56 dur: 507
+131:Bars:Beats:Ticks:13:02:507:(50683):Note:Off :chan: 1 note: 89
+132:Bars:Beats:Ticks:13:03:000:(51200):Note:On :chan: 1 note: 89 :vol: 56 dur: 499
+133:Bars:Beats:Ticks:13:03:499:(51699):Note:Off :chan: 1 note: 89
+134:Bars:Beats:Ticks:13:04:000:(52224):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+135:Bars:Beats:Ticks:13:04:468:(52692):Note:Off :chan: 1 note: 86
+136:Bars:Beats:Ticks:13:04:512:(52736):Note:On :chan: 1 note: 89 :vol: 56 dur: 483
+137:Bars:Beats:Ticks:13:04:995:(53219):Note:Off :chan: 1 note: 89
+138:Bars:Beats:Ticks:14:01:512:(53760):Note:On :chan: 1 note: 89 :vol: 59 dur: 498
+139:Bars:Beats:Ticks:14:01:1010:(54258):Note:Off :chan: 1 note: 89
+140:Bars:Beats:Ticks:14:02:512:(54784):Note:On :chan: 1 note: 86 :vol: 64 dur: 484
+141:Bars:Beats:Ticks:14:02:996:(55268):Note:Off :chan: 1 note: 86
+142:Bars:Beats:Ticks:14:03:000:(55296):Note:On :chan: 1 note: 89 :vol: 56 dur: 482
+143:Bars:Beats:Ticks:14:03:482:(55778):Note:Off :chan: 1 note: 89
+144:Bars:Beats:Ticks:14:03:512:(55808):Note:On :chan: 1 note: 86 :vol: 64 dur: 468
+145:Bars:Beats:Ticks:14:03:980:(56276):Note:Off :chan: 1 note: 86
+146:Bars:Beats:Ticks:14:04:000:(56320):Note:On :chan: 1 note: 89 :vol: 56 dur: 500
+147:Bars:Beats:Ticks:14:04:500:(56820):Note:Off :chan: 1 note: 89
